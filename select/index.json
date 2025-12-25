@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ネクロポリス",
+  "base_artist": "月詠み",
+  "createdAt": "2025-12-25T17:44:11.450658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネクロポリス",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/01_ネクロポリス_Tsukuyomi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネクロポリス",
+      "artist": "ユリイ・カノン",
+      "has_synced": false,
+      "path": "select/02_ネクロポリス_ユリイ・カノン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネクロポリス / Nekropolis",
+      "artist": "Tsukuyomi",
+      "has_synced": true,
+      "path": "select/03_ネクロポリス___Nekropolis_Tsukuyomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネクロポリス",
+      "artist": "月詠み",
+      "has_synced": false,
+      "path": "select/pl_01_ネクロポリス_月詠み.txt"
+    }
+  ]
+}
